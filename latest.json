@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/gastonstrato/venus-releases/main/Venus-1.4.0.apk",
-  "sha256": "00bc9750cf3e766cc451d1ae77590695b6ce0369cac9c873fd7b5aae18405927",
-  "notes": "Nuevo diseño cute en rosa con una mascota, corazones y tipografía redondeada 💕"
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/gastonstrato/venus-releases/main/Venus-1.5.0.apk",
+  "sha256": "eda99ec8dc313d2ea584ee4420bbb9c190a828d0552dca01311f27f66f7aae60",
+  "notes": "Mide tu sueño: se detecta solo con el teléfono o con los botones Me voy a dormir y Buen día 🌙"
 }
